@@ -68,17 +68,17 @@
 ## 🛠 Language & Tools  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minitab-003F87?style=for-the-badge&logo=minitab&logoColor=white" />
-  <img src="https://img.shields.io/badge/SPSS-002A8F?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Google_Data_Studio_Logo.png" alt="Looker Studio" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Minitab_logo.png" alt="Minitab" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/SPSS_Logo.png" alt="SPSS" width="50"/>
 </p>
-
 
 ---
 
