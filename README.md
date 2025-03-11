@@ -4,7 +4,7 @@
 
 ## 🔍 About Me  
 - 🔭 I’m currently a **Final Year Student** at Institut Teknologi Sepuluh Nopember (ITS).  
-- 🌱 I’m currently learning **Excel, R, Python, SQL, Tableau, and Power BI.**  
+- 🌱 I’m currently learning **Excel, R, Python, SQL, Tableau, Power BI, and Looker Studio.**  
 - 👯 I’m looking for **opportunities to work as a Data Analyst.**  
 - 📫 How to reach me: **farahsyahfira@gmail.com**  
 
